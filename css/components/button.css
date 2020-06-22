@@ -1,0 +1,9 @@
+.buton{background-color: black;
+		border-radius: 15px;
+		color:#ffffff ;		
+		padding: 20px 40px;
+		}
+
+.buton:hover{color: red}
+
+
